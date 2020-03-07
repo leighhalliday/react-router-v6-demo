@@ -1,3 +1,3 @@
 # React Router v6 Tutorial
 
-Video: Coming soon
+Video: https://youtu.be/4NpGzBEySvI
